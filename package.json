@@ -1,0 +1,20 @@
+{
+  "name": "my-portfolio-1",
+  "version": "1.0.0",
+  "description": "MY PORTFOLIOO",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "VARUN GERA",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
